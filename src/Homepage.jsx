@@ -7,7 +7,7 @@ function HomePage() {
   return (
     <main className="w-full h-full flex gap-0">
       <div className="hidden md:flex  md:w-36  md:h-3/4 md:justify-end md:flex-col md:items-center md:gap-10 ">
-      <img src={redditLogo} alt="Reddit Logo" />
+      {/* <img src={redditLogo} alt="Reddit Logo" /> */}
       
         <svg
           xmlns="http://www.w3.org/2000/svg"
