@@ -50,8 +50,9 @@ function SiteNav() {
           <div className="w-3 h-3 border-white border md:top-0 md:left-0 md:-translate-x-[50%] md:-translate-y-[50%]"></div>
         </div>
 
-        <div className="logo px-2 w-36 flex items-center justify-center ">
-          <img className="object-cover" src="/Homehop-logo.png" alt="logo-image" />
+        <div className="logo px-2 w-20 flex items-center justify-center  ">
+          <img className="object-cover " src="/Homehop-logo.png" alt="logo-image" />
+          <h2 className=" font-mono  text-base font-extrabold">roomie</h2>
         </div>
 
         <div className="w-28 p-8 md:hidden flex items-center bg-black">
